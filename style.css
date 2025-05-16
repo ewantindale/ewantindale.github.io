@@ -9,3 +9,7 @@ body {
 
     font-family: 'Merriweather', serif;
 }
+
+.main ul li {
+    margin-bottom: 5px;
+}
